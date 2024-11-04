@@ -9,37 +9,44 @@ const Services = () => {
       <div className="container services_container">
         <article className="service">
           <div className="services_head">
-            <h3>UI/UX Design</h3>
+            <h3>Wordpress Website</h3>
           </div>
 
           <ul className="service_list">
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>100% Responsive Wordpress Design.</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Delivering Fully editable modern responsive designs.</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Custom and Professional WordPress Website Creation.</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Customizing and Redesigning of WordPress.</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Crypto, E-commerce, Blogging, Trucking / Logistics and Business
+                WordPress Website.
+              </p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Speed and SEO optimized ( CEO Certified ).</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Complete E-Commerce Store Setup.</p>
+            </li>
+            <li>
+              <FaCheck className="service_list-icon" />
+              <p>Live Chat, Social Media, Royalty Free images, News Letters.</p>
             </li>
           </ul>
         </article>
@@ -47,37 +54,55 @@ const Services = () => {
 
         <article className="service">
           <div className="services_head">
-            <h3>Web Development</h3>
+            <h3>Web Development using MERN stack</h3>
           </div>
 
           <ul className="service_list">
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Fully Customized website.</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Basic , Advance and Professional feature like 1 ,5 and 10 page
+                website.
+              </p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Adapts to all screen sizes, from desktops to mobile devices, for
+                a consistent user experience.
+              </p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>User Authentication and Authorization.</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>API Integration.</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Real-Time Features.</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Database Management and Scalability.</p>
+            </li>
+            <li>
+              <FaCheck className="service_list-icon" />
+              <p>Enhanced User Interface and Experience.</p>
+            </li>
+            <li>
+              <FaCheck className="service_list-icon" />
+              <p>SEO-Friendly Architecture.</p>
+            </li>
+            <li>
+              <FaCheck className="service_list-icon" />
+              <p>Scalable Hosting and Deployment.</p>
             </li>
           </ul>
         </article>
@@ -86,37 +111,41 @@ const Services = () => {
 
         <article className="service">
           <div className="services_head">
-            <h3>Content Creation</h3>
+            <h3>Youtube SEO</h3>
           </div>
 
           <ul className="service_list">
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Keyword Optimization.</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Engaging Titles and Descriptions.</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Update Tags and Hashtags.</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Custom Thumbnails.</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Closed Captions and Subtitles.</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Make Playlists and Video Series.</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Optimized End Screens and Cards.</p>
+            </li>
+            <li>
+              <FaCheck className="service_list-icon" />
+              <p>Analize Channel and Video Metadata.</p>
             </li>
           </ul>
         </article>

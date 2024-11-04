@@ -19,11 +19,18 @@
 }
 
 .about_me_image {
+  width: 100%;
+  height: 100%;
   border-radius: 2rem;
   overflow: hidden;
   transform: rotate(10deg);
   transition: var(--transition);
+  cursor: pointer;
 }
+.about_me_image img {
+  object-fit: cover;
+}
+
 .about_me_image:hover {
   transform: rotate(0deg);
 }

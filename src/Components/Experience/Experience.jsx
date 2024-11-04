@@ -16,91 +16,91 @@ const Experience = () => {
               <FaCheckCircle className="experience_details_icon" />
               <div>
                 <h4>HTML</h4>
-                <small className="text-light">Intermediet</small>
+                <small className="text-light">Advance</small>
               </div>
             </article>
             <article className="experience_details">
               <FaCheckCircle className="experience_details_icon" />
               <div>
-                <h4>HTML</h4>
-                <small className="text-light">Intermediet</small>
+                <h4>CSS</h4>
+                <small className="text-light">Advance</small>
               </div>
             </article>
             <article className="experience_details">
               <FaCheckCircle className="experience_details_icon" />
               <div>
-                <h4>HTML</h4>
-                <small className="text-light">Intermediet</small>
+                <h4>Javascript</h4>
+                <small className="text-light">Advance</small>
               </div>
             </article>
             <article className="experience_details">
               <FaCheckCircle className="experience_details_icon" />
               <div>
-                <h4>HTML</h4>
-                <small className="text-light">Intermediet</small>
+                <h4>React</h4>
+                <small className="text-light">Advance</small>
               </div>
             </article>
             <article className="experience_details">
               <FaCheckCircle className="experience_details_icon" />
               <div>
-                <h4>HTML</h4>
-                <small className="text-light">Intermediet</small>
+                <h4>Wordpress</h4>
+                <small className="text-light">Advance</small>
               </div>
             </article>
-            <article className="experience_details">
+            {/* <article className="experience_details">
               <FaCheckCircle className="experience_details_icon" />
               <div>
-                <h4>HTML</h4>
+                <h4></h4>
                 <small className="text-light">Intermediet</small>
               </div>
-            </article>
+            </article> */}
           </div>
         </div>
 
         {/* Backend start here */}
         <div className="experience_backend">
-          <h3>Backend Developer</h3>
+          <h3>Youtube SEO</h3>
           <div className="experience_content">
             <article className="experience_details">
               <FaCheckCircle className="experience_details_icon" />
               <div>
-                <h4>HTML</h4>
-                <small className="text-light">Intermediet</small>
+                <h4>Keyword Research</h4>
+                <small className="text-light">Advance</small>
               </div>
             </article>
             <article className="experience_details">
               <FaCheckCircle className="experience_details_icon" />
               <div>
-                <h4>HTML</h4>
-                <small className="text-light">Intermediet</small>
+                <h4>Optimized Titles and Descriptions</h4>
+                <small className="text-light">Advance</small>
               </div>
             </article>
             <article className="experience_details">
               <FaCheckCircle className="experience_details_icon" />
               <div>
-                <h4>HTML</h4>
-                <small className="text-light">Intermediet</small>
+                <h4>Thumbnails</h4>
+                <small className="text-light">Advance</small>
               </div>
             </article>
             <article className="experience_details">
               <FaCheckCircle className="experience_details_icon" />
               <div>
-                <h4>HTML</h4>
-                <small className="text-light">Intermediet</small>
+                <h4>Captions and Subtitles</h4>
+                <small className="text-light">Advance</small>
               </div>
             </article>
             <article className="experience_details">
               <FaCheckCircle className="experience_details_icon" />
               <div>
-                <h4>HTML</h4>
-                <small className="text-light">Intermediet</small>
+                <h4>Engagement Metrics</h4>
+                <small className="text-light">Advance</small>
               </div>
             </article>
             <article className="experience_details">
               <FaCheckCircle className="experience_details_icon" />
               <div>
-                <h4>HTML</h4>
-                <small className="text-light">Intermediet</small>
+                <h4>End Screens and Cards</h4>
+                <small className="text-light">Advance</small>
               </div>
             </article>
           </div>

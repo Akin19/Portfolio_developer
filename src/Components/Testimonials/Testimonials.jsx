@@ -21,25 +21,25 @@ const Testimonials = () => {
       avatar: avtr1,
       name: "Tina Snow",
       review:
-        " Lorem ipsum dolor sit amet consectetur adipisicing elit. Liberoporro aspernatur a aliquam quibusdam facere laudantium praesentium repellat?",
+        " This website is sleek and responsive across devices, with fast load times and a well-organized layout. The user experience is seamless and visually appealing!",
     },
     {
       avatar: avtr2,
       name: "John Snow",
       review:
-        " Lorem ipsum dolor sit amet consectetur adipisicing elit. Liberoporro aspernatur a aliquam quibusdam facere laudantium praesentium repellat?",
+        " Impressive design and functionality! The website’s dynamic elements and smooth navigation make it both engaging and highly professional.",
     },
     {
       avatar: avtr3,
       name: "Hayra Abbasi",
       review:
-        " Lorem ipsum dolor sit amet consectetur adipisicing elit. Liberoporro aspernatur a aliquam quibusdam facere laudantium praesentium repellat?",
+        " Excellent YouTube SEO! The optimized titles, tags, and thumbnails have noticeably boosted video rankings and organic traffic on the channel.",
     },
     {
       avatar: avtr4,
       name: "Maymuna Majed",
       review:
-        " Lorem ipsum dolor sit amet consectetur adipisicing elit. Liberoporro aspernatur a aliquam quibusdam facere laudantium praesentium repellat?",
+        " Great SEO work! The use of relevant keywords, captivating thumbnails, and captions has improved visibility and viewer retention for the channel.",
     },
   ];
   return (

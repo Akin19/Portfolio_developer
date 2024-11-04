@@ -18,13 +18,17 @@ const Portfolio = () => {
           <div className="portfolio_item-image">
             <img src={IMG1} alt="" />
           </div>
-          <h3>This is portfolio item title</h3>
+          <h3>Weather App</h3>
           <div className="portfolio_item_cta">
-            <a href="https://github.com" target="_blank" className="btn">
+            <a
+              href="https://github.com/Akin19/Weather-App"
+              target="_blank"
+              className="btn"
+            >
               Github
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/Akin19/Weather-App"
               target="_blank"
               className="btn btn-primary"
             >
@@ -37,13 +41,17 @@ const Portfolio = () => {
           <div className="portfolio_item-image">
             <img src={IMG2} alt="" />
           </div>
-          <h3>This is portfolio item title</h3>
+          <h3>Client Portfolio Website</h3>
           <div className="portfolio_item_cta">
-            <a href="https://github.com" target="_blank" className="btn">
+            <a
+              href="https://github.com/Akin19/FaysalBiswasPortfolio"
+              target="_blank"
+              className="btn"
+            >
               Github
             </a>
             <a
-              href="https://github.com"
+              href="https://faysalbiswas.netlify.app/"
               target="_blank"
               className="btn btn-primary"
             >
@@ -56,12 +64,20 @@ const Portfolio = () => {
           <div className="portfolio_item-image">
             <img src={IMG3} alt="" />
           </div>
-          <h3>This is portfolio item title</h3>
+          <h3>Portfolio Website</h3>
           <div className="portfolio_item_cta">
-            <a href="https://github.com" target="_blank" className="btn">
+            <a
+              href="https://github.com/Akin19/Portfolio_developer"
+              target="_blank"
+              className="btn"
+            >
               Github
             </a>
-            <a href="#" target="_blank" className="btn btn-primary">
+            <a
+              href="https://portfolio-developer-liart.vercel.app/"
+              target="_blank"
+              className="btn btn-primary"
+            >
               Live Demo
             </a>
           </div>
@@ -71,13 +87,17 @@ const Portfolio = () => {
           <div className="portfolio_item-image">
             <img src={IMG4} alt="" />
           </div>
-          <h3>This is portfolio item title</h3>
+          <h3>E-commerce Website</h3>
           <div className="portfolio_item_cta">
-            <a href="https://github.com" target="_blank" className="btn">
+            <a
+              href="https://github.com/Akin19/Ecommerce_React"
+              target="_blank"
+              className="btn"
+            >
               Github
             </a>
             <a
-              href="https://github.com"
+              href="https://ecommercedemobyakin.netlify.app"
               target="_blank"
               className="btn btn-primary"
             >
@@ -90,13 +110,17 @@ const Portfolio = () => {
           <div className="portfolio_item-image">
             <img src={IMG5} alt="" />
           </div>
-          <h3>This is portfolio item title</h3>
+          <h3>Animated Portfolio website</h3>
           <div className="portfolio_item_cta">
-            <a href="https://github.com" target="_blank" className="btn">
+            <a
+              href="https://github.com/Akin19/AnimatedPortfolio"
+              target="_blank"
+              className="btn"
+            >
               Github
             </a>
             <a
-              href="https://github.com"
+              href="https://animated-portfolio-nine-xi.vercel.app/"
               target="_blank"
               className="btn btn-primary"
             >
@@ -109,13 +133,17 @@ const Portfolio = () => {
           <div className="portfolio_item-image">
             <img src={IMG6} alt="" />
           </div>
-          <h3>This is portfolio item title</h3>
+          <h3>Simple Portfolio Website</h3>
           <div className="portfolio_item_cta">
-            <a href="https://github.com" target="_blank" className="btn">
+            <a
+              href="https://github.com/Akin19/Portfolio_simple"
+              target="_blank"
+              className="btn"
+            >
               Github
             </a>
             <a
-              href="https://github.com"
+              href="https://portfolio-simple-eight.vercel.app/"
               target="_blank"
               className="btn btn-primary"
             >

@@ -40,10 +40,11 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias illo
-            culpa eos facere ab delectus. Cumque ea eveniet similique impedit,
-            maxime ipsum placeat! Harum, atque neque unde eum necessitatibus
-            animi?
+            A Frontend Developer and SEO expert. I specialize in creating
+            responsive, visually engaging websites optimized to rank high on
+            search engines. With strong skills in HTML, CSS,JavaScript and
+            react, I blend design and SEO strategies to boost visibility and
+            deliver great user experiences.
           </p>
 
           <a href="#contact" className="btn btn-primary">

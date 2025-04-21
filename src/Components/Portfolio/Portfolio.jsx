@@ -97,7 +97,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://ecommercedemobyakin.netlify.app"
+              href="https://ecommerce-react-phi-azure.vercel.app/"
               target="_blank"
               className="btn btn-primary"
             >

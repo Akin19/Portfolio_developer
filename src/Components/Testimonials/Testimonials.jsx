@@ -25,7 +25,7 @@ const Testimonials = () => {
     },
     {
       avatar: avtr2,
-      name: "John Snow",
+      name: "Jacob",
       review:
         " Impressive design and functionality! The website’s dynamic elements and smooth navigation make it both engaging and highly professional.",
     },

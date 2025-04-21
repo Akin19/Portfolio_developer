@@ -44,7 +44,7 @@ const Contact = () => {
             <FaFacebookMessenger className="contact_option-icon" />
             <h4>Messanger</h4>
             <h5>Asaduzzman Akin</h5>
-            <a href="https://m.me/nadiamimProfileLink" target="_blank">
+            <a href="https://www.facebook.com/profile.php?id=61556183875513" target="_blank">
               Send a Message
             </a>
           </article>
@@ -53,7 +53,8 @@ const Contact = () => {
             <h4>Whatsapp</h4>
             <h5>+8801765042763</h5>
             <a
-              href="https://api.whatsapp.com/send?phone=+8801765042763"
+              href="https://wa.me/8801765042763?text=Hello%20there%2C%20Are%20you%20available%3F
+"
               target="_blank"
             >
               Send a Message

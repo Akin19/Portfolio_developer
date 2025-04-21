@@ -18,17 +18,17 @@ const Portfolio = () => {
           <div className="portfolio_item-image">
             <img src={IMG1} alt="" />
           </div>
-          <h3>Weather App</h3>
+          <h3>Digital Marketer</h3>
           <div className="portfolio_item_cta">
             <a
-              href="https://github.com/Akin19/Weather-App"
+              href="https://saeemtalukdar.com/"
               target="_blank"
               className="btn"
             >
               Github
             </a>
             <a
-              href="https://github.com/Akin19/Weather-App"
+              href="https://saeemtalukdar.com/"
               target="_blank"
               className="btn btn-primary"
             >
@@ -41,9 +41,10 @@ const Portfolio = () => {
           <div className="portfolio_item-image">
             <img src={IMG2} alt="" />
           </div>
-          <h3>Client Portfolio Website</h3>
+          <h3>Blog Site</h3>
           <div className="portfolio_item_cta">
             <a
+              style={{ display: 'none' }}
               href="https://github.com/Akin19/FaysalBiswasPortfolio"
               target="_blank"
               className="btn"
@@ -51,7 +52,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://faysalbiswas.netlify.app/"
+              href="https://yourmarketingtips.com/"
               target="_blank"
               className="btn btn-primary"
             >
@@ -64,17 +65,17 @@ const Portfolio = () => {
           <div className="portfolio_item-image">
             <img src={IMG3} alt="" />
           </div>
-          <h3>Portfolio Website</h3>
+          <h3>Demo Portfolio Website</h3>
           <div className="portfolio_item_cta">
             <a
-              href="https://github.com/Akin19/Portfolio_developer"
+              href="https://github.com/Akin19/AnimatedPortfolio"
               target="_blank"
               className="btn"
             >
               Github
             </a>
             <a
-              href="https://portfolio-developer-liart.vercel.app/"
+              href="https://vercel.com/asad-akins-projects/animated-portfolio"
               target="_blank"
               className="btn btn-primary"
             >
@@ -110,9 +111,10 @@ const Portfolio = () => {
           <div className="portfolio_item-image">
             <img src={IMG5} alt="" />
           </div>
-          <h3>Animated Portfolio website</h3>
+          <h3>Health Coach</h3>
           <div className="portfolio_item_cta">
             <a
+              style={{ display: 'none' }}
               href="https://github.com/Akin19/AnimatedPortfolio"
               target="_blank"
               className="btn"
@@ -120,7 +122,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://animated-portfolio-nine-xi.vercel.app/"
+              href="https://thedangerousgentleman.org/"
               target="_blank"
               className="btn btn-primary"
             >
@@ -133,9 +135,10 @@ const Portfolio = () => {
           <div className="portfolio_item-image">
             <img src={IMG6} alt="" />
           </div>
-          <h3>Simple Portfolio Website</h3>
+          <h3>Agency Website</h3>
           <div className="portfolio_item_cta">
             <a
+              style={{ display: 'none' }}
               href="https://github.com/Akin19/Portfolio_simple"
               target="_blank"
               className="btn"
@@ -143,7 +146,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://portfolio-simple-eight.vercel.app/"
+              href="https://seostationaoyon.com/"
               target="_blank"
               className="btn btn-primary"
             >

@@ -81,4 +81,8 @@ header {
   .scroll_down {
     display: none;
   }
+
+  .me img{
+    height: 100%;
+  }
 }

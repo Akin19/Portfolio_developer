@@ -15,15 +15,15 @@ const Services = () => {
           <ul className="service_list">
             <li>
               <FaCheck className="service_list-icon" />
-              <p>100% Responsive Wordpress Design.</p>
+              <p>Custom WordPress theme development or customization</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Delivering Fully editable modern responsive designs.</p>
+              <p>Fully responsive design for all devices</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Custom and Professional WordPress Website Creation.</p>
+              <p>Integration with essential plugins (SEO, security, contact forms)</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
@@ -54,56 +54,39 @@ const Services = () => {
 
         <article className="service">
           <div className="services_head">
-            <h3>Web Development using MERN stack</h3>
+            <h3>Content & Website Management</h3>
           </div>
 
           <ul className="service_list">
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Fully Customized website.</p>
+              <p>Page and blog content upload</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
               <p>
-                Basic , Advance and Professional feature like 1 ,5 and 10 page
-                website.
+                Product upload and updates for WooCommerce stores.
               </p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
               <p>
-                Adapts to all screen sizes, from desktops to mobile devices, for
-                a consistent user experience.
+                Layout and styling updates.
               </p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>User Authentication and Authorization.</p>
+              <p>Image optimization for faster loading</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>API Integration.</p>
+              <p>Regular website checks and minor fixes</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Real-Time Features.</p>
+              <p>Monthly reporting on updates and performance</p>
             </li>
-            <li>
-              <FaCheck className="service_list-icon" />
-              <p>Database Management and Scalability.</p>
-            </li>
-            <li>
-              <FaCheck className="service_list-icon" />
-              <p>Enhanced User Interface and Experience.</p>
-            </li>
-            <li>
-              <FaCheck className="service_list-icon" />
-              <p>SEO-Friendly Architecture.</p>
-            </li>
-            <li>
-              <FaCheck className="service_list-icon" />
-              <p>Scalable Hosting and Deployment.</p>
-            </li>
+
           </ul>
         </article>
 
@@ -111,42 +94,35 @@ const Services = () => {
 
         <article className="service">
           <div className="services_head">
-            <h3>Youtube SEO</h3>
+            <h3>Maintenance & Support</h3>
           </div>
 
           <ul className="service_list">
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Keyword Optimization.</p>
+              <p>WordPress core, theme, and plugin updates.</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Engaging Titles and Descriptions.</p>
+              <p>Website speed optimization and performance tuning.</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Update Tags and Hashtags.</p>
+              <p>Regular backups and restore points.</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Custom Thumbnails.</p>
+              <p>Security monitoring and malware removal.</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Closed Captions and Subtitles.</p>
+              <p>Troubleshooting errors or website issues.</p>
             </li>
             <li>
               <FaCheck className="service_list-icon" />
-              <p>Make Playlists and Video Series.</p>
+              <p>Priority support for urgent fixes.</p>
             </li>
-            <li>
-              <FaCheck className="service_list-icon" />
-              <p>Optimized End Screens and Cards.</p>
-            </li>
-            <li>
-              <FaCheck className="service_list-icon" />
-              <p>Analize Channel and Video Metadata.</p>
-            </li>
+        
           </ul>
         </article>
 

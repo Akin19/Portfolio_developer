@@ -18,17 +18,11 @@ const Portfolio = () => {
           <div className="portfolio_item-image">
             <img src={IMG1} alt="" />
           </div>
-          <h3>Digital Marketer</h3>
+          <h3>TOBY USNIK</h3>
           <div className="portfolio_item_cta">
+            
             <a
-              href="https://saeemtalukdar.com/"
-              target="_blank"
-              className="btn"
-            >
-              Github
-            </a>
-            <a
-              href="https://saeemtalukdar.com/"
+              href="https://tobyusnik.com/"
               target="_blank"
               className="btn btn-primary"
             >
@@ -41,18 +35,11 @@ const Portfolio = () => {
           <div className="portfolio_item-image">
             <img src={IMG2} alt="" />
           </div>
-          <h3>Blog Site</h3>
+          <h3>Digital Marketing Agency</h3>
           <div className="portfolio_item_cta">
+        
             <a
-              style={{ display: 'none' }}
-              href="https://github.com/Akin19/FaysalBiswasPortfolio"
-              target="_blank"
-              className="btn"
-            >
-              Github
-            </a>
-            <a
-              href="https://yourmarketingtips.com/"
+              href="https://bkrit.com/"
               target="_blank"
               className="btn btn-primary"
             >
@@ -65,17 +52,11 @@ const Portfolio = () => {
           <div className="portfolio_item-image">
             <img src={IMG3} alt="" />
           </div>
-          <h3>Demo Portfolio Website</h3>
+          <h3>Real State</h3>
           <div className="portfolio_item_cta">
+            
             <a
-              href="https://github.com/Akin19/AnimatedPortfolio"
-              target="_blank"
-              className="btn"
-            >
-              Github
-            </a>
-            <a
-              href="https://vercel.com/asad-akins-projects/animated-portfolio"
+              href="https://kbhomesnj.com/"
               target="_blank"
               className="btn btn-primary"
             >
@@ -113,14 +94,7 @@ const Portfolio = () => {
           </div>
           <h3>Health Coach</h3>
           <div className="portfolio_item_cta">
-            <a
-              style={{ display: 'none' }}
-              href="https://github.com/Akin19/AnimatedPortfolio"
-              target="_blank"
-              className="btn"
-            >
-              Github
-            </a>
+          
             <a
               href="https://thedangerousgentleman.org/"
               target="_blank"
@@ -135,18 +109,64 @@ const Portfolio = () => {
           <div className="portfolio_item-image">
             <img src={IMG6} alt="" />
           </div>
-          <h3>Agency Website</h3>
+          <h3>Circus Agency Website</h3>
           <div className="portfolio_item_cta">
+            
             <a
-              style={{ display: 'none' }}
-              href="https://github.com/Akin19/Portfolio_simple"
+              href="https://westchestercircusarts.com/"
               target="_blank"
-              className="btn"
+              className="btn btn-primary"
             >
-              Github
+              Live Demo
             </a>
+          </div>
+        </article>
+
+        <article className="portfolio_item">
+          <div className="portfolio_item-image">
+            <img src={IMG6} alt="" />
+          </div>
+          <h3>Flight Training Agency</h3>
+          <div className="portfolio_item_cta">
+            
             <a
-              href="https://seostationaoyon.com/"
+              href="https://infinityflightgroup.com/"
+              target="_blank"
+              className="btn btn-primary"
+            >
+              Live Demo
+            </a>
+          </div>
+        </article>
+
+
+        <article className="portfolio_item">
+          <div className="portfolio_item-image">
+            <img src={IMG6} alt="" />
+          </div>
+          <h3>HVAC Service</h3>
+          <div className="portfolio_item_cta">
+            
+            <a
+              href="https://www.kingdomheatingandair.com/"
+              target="_blank"
+              className="btn btn-primary"
+            >
+              Live Demo
+            </a>
+          </div>
+        </article>
+
+
+        <article className="portfolio_item">
+          <div className="portfolio_item-image">
+            <img src={IMG6} alt="" />
+          </div>
+          <h3>Law Firm</h3>
+          <div className="portfolio_item_cta">
+            
+            <a
+              href="https://exexperts.com/"
               target="_blank"
               className="btn btn-primary"
             >

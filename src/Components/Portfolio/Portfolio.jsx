@@ -1,11 +1,14 @@
 import "./Portfolio.css";
 
 import IMG1 from "../../assets/tobeyUsnic.png";
-import IMG2 from "../../assets/portfolio2.jpg";
-import IMG3 from "../../assets/portfolio3.jpg";
-import IMG4 from "../../assets/portfolio4.jpg";
-import IMG5 from "../../assets/portfolio5.png";
-import IMG6 from "../../assets/portfolio6.jpg";
+import IMG2 from "../../assets/Bkrit.png";
+import IMG3 from "../../assets/RealState.png";
+import IMG4 from "../../assets/E-com.png";
+import IMG5 from "../../assets/LifeCoach.png";
+import IMG6 from "../../assets/Circus.png";
+import IMG7 from "../../assets/LawFirm.png";
+import IMG8 from "../../assets/HVAC.png";
+import IMG9 from "../../assets/LawFirm2.png";
 
 const Portfolio = () => {
   return (
@@ -124,7 +127,7 @@ const Portfolio = () => {
 
         <article className="portfolio_item">
           <div className="portfolio_item-image">
-            <img src={IMG6} alt="" />
+            <img src={IMG7} alt="" />
           </div>
           <h3>Flight Training Agency</h3>
           <div className="portfolio_item_cta">
@@ -142,7 +145,7 @@ const Portfolio = () => {
 
         <article className="portfolio_item">
           <div className="portfolio_item-image">
-            <img src={IMG6} alt="" />
+            <img src={IMG8} alt="" />
           </div>
           <h3>HVAC Service</h3>
           <div className="portfolio_item_cta">
@@ -160,7 +163,7 @@ const Portfolio = () => {
 
         <article className="portfolio_item">
           <div className="portfolio_item-image">
-            <img src={IMG6} alt="" />
+            <img src={IMG9} alt="" />
           </div>
           <h3>Law Firm</h3>
           <div className="portfolio_item_cta">
